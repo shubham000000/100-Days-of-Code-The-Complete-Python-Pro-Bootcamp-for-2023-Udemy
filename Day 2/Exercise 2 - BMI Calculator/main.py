@@ -10,3 +10,6 @@ new_weight = int(weight)
 BMI = new_weight / new_height ** 2
 
 print(int(BMI))
+
+#BMI Explained
+#https://en.wikipedia.org/wiki/Body_mass_index
