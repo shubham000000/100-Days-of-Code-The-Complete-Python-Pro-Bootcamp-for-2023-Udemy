@@ -21,3 +21,9 @@ final_amount = round(splitted_amount, 2)
 
 final_amount = "{:.2f}".format(splitted_amount)
 print(f"Each person should pay: ${final_amount}")
+
+#FAQ: How to Get 2 Decimal Places?
+#https://www.udemy.com/course/100-days-of-code/learn/lecture/17841394#questions/13315048
+
+#Floating Point Arithmatic
+#https://docs.python.org/3/tutorial/floatingpoint.html
